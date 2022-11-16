@@ -10,10 +10,13 @@
 
   <h3 align="center">Project Name</h3>
 
+  <p align="center"><a href="https://github.com/othneildrew/Best-README-Template"><strong>Link to live project »</strong></a></p>  
+
   <p align="center">
     Find project details below
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Link to live project »</strong></a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Link to live project »</strong></a>
+    Find project details below -->
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
